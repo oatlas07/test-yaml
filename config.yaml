@@ -10,7 +10,6 @@ teams:
   gcp-vf-ca-zeta-ds-user: ['group:gcp-vf-pt-ca-ds-user@example.com']
   gcp-vf-ca-billing-reporting: ['group:gcp-vf-pt-billing-viewer@example.com']
 
-wbs_code: i_83000990_002
 budget_owner : joe.blogg@gmail.com
 project_owner : joe.blogg@gmail.com
 technical_owner : joe.blogg@gmail.com
