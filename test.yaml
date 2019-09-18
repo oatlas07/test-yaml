@@ -1,0 +1,26 @@
+kind: "Program"
+program_type: "cloud_analytics"
+program_name: "PT Neuron"
+program_code: "ca"
+tenant_org_code: "gdc"
+tenant_code: "pt"
+wbs_code: "i_83000990_002"
+teams:
+  gcp-vf-ca-zeta-owner:
+    - "group:gcp-vf-pt-owner@example.com"
+  gcp-vf-ca-zeta-ds-user:
+    - "group:gcp-vf-pt-ca-ds-user@example.com"
+  gcp-vf-ca-billing-reporting:
+    - "group:gcp-vf-pt-billing-viewer@example.com"
+budget_owner: "andy.shack@vodafone.com"
+project_owner: "andy.shack@vodafone.com"
+technical_owner: "andy.shack@vodafone.com"
+confidentiality: "c1"
+bu: "group-ca"
+local_market: "vfpt"
+environment: "zeta"
+sec_assessment: "na"
+cost_centre: "na"
+po_number_gcp: "po150333333333"
+po_number_cht: "cht5555555555"
+managed_by: "andy.shack@vodafone.com"
